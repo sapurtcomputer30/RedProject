@@ -1,4 +1,6 @@
 # RedProject
+SystemSpatiaDirectoryManeger.dll
+--------------------------------------------------------------------------------
 Manege Operating System Folders 
 ex : Document , Download , Pictures , Videos ...
 
